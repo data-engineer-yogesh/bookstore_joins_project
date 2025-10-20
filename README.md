@@ -39,7 +39,7 @@ It includes 6 tables — `authors`, `books`, `customers`, `orders`, `order_items
 
 ## Creating a database and tables
 
-The process of creating the database and tables with customers, products and orders ,order_items,deliveries,delivery_agents was performed using MySQL and stored in file [*bookstore_joins_project.sql*]().
+The process of creating the database and tables with customers, products and orders ,order_items,deliveries,delivery_agents was performed using MySQL and stored in file [*bookstore_joins_project.sql*](https://github.com/data-engineer-yogesh/bookstore_joins_project/blob/main/bookstore_joins_project.sql).
 
 ## Analysis
 
