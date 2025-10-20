@@ -1,13 +1,13 @@
-# 📚 Bookstore Joins Project
+# Bookstore Joins Project
 
-## 🧠 Overview
+##  Overview
 The **Bookstore Joins Project** is a SQL learning mini-project designed to help you master **all major SQL JOIN types** through practical, real-world scenarios using a bookstore database.  
 
 It includes 6 tables — `authors`, `books`, `customers`, `orders`, `order_items`, and `deliveries` (optional extension) — and 10 carefully crafted queries that cover every JOIN type with business use cases.
 
 ---
 
-## 🗂️ Database Schema
+##  Database Schema
 ### Tables Used
 | Table | Description |
 |--------|--------------|
@@ -20,15 +20,15 @@ It includes 6 tables — `authors`, `books`, `customers`, `orders`, `order_items
 
 ---
 
-## 🧩 Project Goals
-✅ Learn all SQL JOINs step-by-step  
-✅ Practice real-world analytical queries  
-✅ Strengthen your MySQL/PostgreSQL fundamentals  
-✅ Build confidence for interviews and data projects  
+##  Project Goals
+- Learn all SQL JOINs step-by-step  
+- Practice real-world analytical queries  
+- Strengthen your MySQL/PostgreSQL fundamentals  
+- Build confidence for interviews and data projects  
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 1. **Create the database**
    ```sql
